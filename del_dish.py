@@ -50,6 +50,8 @@ def Del_Dish(menu, ID_list):
         menu is a list of all dish(Dish instance)
         ID_list is a list of index which all needs to pop
     """
+    ##############
+    
     pass
 
 
